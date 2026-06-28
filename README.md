@@ -1,14 +1,16 @@
 # SaaS-Product-Growth-Analysis
 
+<img width="1020" height="534" alt="image" src="https://github.com/user-attachments/assets/de9feeea-8a4c-4344-80c2-c20866f6d696" />
+
 ## Problem Statement
 Users are signing up but not effectively using the product or staying engaged, resulting in low conversion to paid subscriptions.
 
 ## Data
-1. 50,000 website visitors
-2. 20,000 sign up
-3. 8,000 use product (1st time)
-4. 3,000 active after 7 days
-5. 1,000 subscribe (paid)
+1. 50,000 Website Visitors
+2. 20,000 Sign Up
+3. 8,000 Use Product (1st time)
+4. 3,000 Active (After 7 days)
+5. 1,000 Subscribe (Paid)
 
 ## Funnel Analysis
 ### 1. Visit to Sign-up : 
